@@ -1,0 +1,128 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jaydata-error-handler@^0.0.1",
+        "scope": null,
+        "escapedName": "jaydata-error-handler",
+        "name": "jaydata-error-handler",
+        "rawSpec": "^0.0.1",
+        "spec": ">=0.0.1 <0.0.2",
+        "type": "range"
+      },
+      "D:\\Projects\\DorsaBPMS\\Dorsa.Angular\\node_modules\\jaydata"
+    ]
+  ],
+  "_from": "jaydata-error-handler@>=0.0.1 <0.0.2",
+  "_id": "jaydata-error-handler@0.0.1",
+  "_inCache": true,
+  "_location": "/jaydata-error-handler",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "lazarv",
+    "email": "viktor.lazar@jaystack.com"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jaydata-error-handler@^0.0.1",
+    "scope": null,
+    "escapedName": "jaydata-error-handler",
+    "name": "jaydata-error-handler",
+    "rawSpec": "^0.0.1",
+    "spec": ">=0.0.1 <0.0.2",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/jaydata",
+    "/jaydata-dynamic-metadata",
+    "/jaydata-promise-handler"
+  ],
+  "_resolved": "https://registry.npmjs.org/jaydata-error-handler/-/jaydata-error-handler-0.0.1.tgz",
+  "_shasum": "53927466ca3a49df4b286dc6f39c021e3b31fe60",
+  "_shrinkwrap": null,
+  "_spec": "jaydata-error-handler@^0.0.1",
+  "_where": "D:\\Projects\\DorsaBPMS\\Dorsa.Angular\\node_modules\\jaydata",
+  "author": {
+    "name": "JayData",
+    "url": "http://jaydata.org"
+  },
+  "bugs": {
+    "url": "https://github.com/jaystack/jaydata-error-handler/issues"
+  },
+  "contributors": [
+    {
+      "name": "Dániel József"
+    },
+    {
+      "name": "Hajnalka Battancs"
+    },
+    {
+      "name": "János Roden"
+    },
+    {
+      "name": "László Horváth"
+    },
+    {
+      "name": "Péter Zentai"
+    },
+    {
+      "name": "Péter Nochta"
+    },
+    {
+      "name": "Róbert Bónay"
+    },
+    {
+      "name": "Szabolcs Czinege"
+    },
+    {
+      "name": "Viktor Borza"
+    },
+    {
+      "name": "Viktor Lázár"
+    },
+    {
+      "name": "Zoltán Gyebrovszki"
+    }
+  ],
+  "dependencies": {},
+  "description": "JayData Error Handler",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "53927466ca3a49df4b286dc6f39c021e3b31fe60",
+    "tarball": "https://registry.npmjs.org/jaydata-error-handler/-/jaydata-error-handler-0.0.1.tgz"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "gitHead": "f235581eb40f89c8354e43d6c5757046aa156ea7",
+  "homepage": "http://jaydata.org",
+  "keywords": [
+    "HTML5 data management",
+    "JavaScript",
+    "error",
+    "exception",
+    "guard",
+    "cross-platform",
+    "iPhone",
+    "Android"
+  ],
+  "license": "(MIT OR GPL-2.0)",
+  "main": "lib/errorHandler.js",
+  "maintainers": [
+    {
+      "name": "lazarv",
+      "email": "viktor.lazar@jaystack.com"
+    }
+  ],
+  "name": "jaydata-error-handler",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaystack/jaydata-error-handler.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}

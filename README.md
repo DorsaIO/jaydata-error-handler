@@ -1,1 +1,3 @@
-# jaydata-error-handler
+# JayData Error Handler
+
+Only for internal usage
